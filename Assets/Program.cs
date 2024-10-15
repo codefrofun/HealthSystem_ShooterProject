@@ -13,6 +13,9 @@ public class HealthSystem
 
     public HealthSystem()
     {
+        int health = 100;
+        int shield = 
+        int lives = 
         ResetGame();
     }
 
